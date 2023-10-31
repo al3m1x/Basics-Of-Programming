@@ -1,0 +1,10 @@
+﻿  conio2.cpp
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\conio2.cpp(398,45): warning C4267: "argument": konwersja z "size_t" do "DWORD", możliwa utrata danych
+  GRA_W_GO.cpp
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\GRA_W_GO.cpp(469,47): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\GRA_W_GO.cpp(487,24): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\GRA_W_GO.cpp(534,39): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\GRA_W_GO.cpp(336): warning C4715: "handicapStart”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\GRA_W_GO.cpp(431): warning C4715: "resumeGame”: niewszystkie ścieżki kodu zwracają wartość
+  GRA_W_GO.vcxproj -> C:\Users\al3m1x\Desktop\go_juliuszradziszewski193504\x64\Debug\GRA_W_GO.exe
