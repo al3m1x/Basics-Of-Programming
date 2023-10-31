@@ -1,0 +1,29 @@
+﻿  main.cpp
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(257,15): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(257,42): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(391,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(391,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(394,37): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(394,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(407,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(407,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(615,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(615,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(697,33): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(731,26): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(735,26): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(744,42): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(745,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(746,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(747,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(773,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(773,31): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(814,16): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(814,43): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(831,17): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(831,44): warning C4305: "=": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(923,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(923,46): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(935,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\main.cpp(953,278): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  szablon2vs19.vcxproj -> E:\Informatyka - semestr 1 i 2\szkolne\SPY HUNTER\template-project-2\x64\Debug\szablon2vs19.exe
